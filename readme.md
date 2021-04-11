@@ -15,3 +15,5 @@ Repositorio para el proyecto final de la Asignatura "Interacción Humano Computa
     * [cardiologia.org.mx](https://www.cardiologia.org.mx/atencion_medica/banco_de_sangre/)
     * [codigof.mx](https://codigof.mx/donar-sangre-regalar-vida/)
     * [foroconsultivo.org.mx](https://foroconsultivo.org.mx/INCyTU/index.php/notas/salud/124-30-donacion-de-sangre-en-mexico-n-2)
+    * [scroll.in](https://scroll.in/pulse/841558/blood-donation-apps-are-here-to-help-in-medical-emergencies-but-where-does-the-blood-really-go)
+    * [www.sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2666990021000045)

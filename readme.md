@@ -46,3 +46,13 @@ no se visualizan correctamente, pero pueden consultarse en los siguientes enlace
 	* [Resumen de avance](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a18016316_alumnos_uady_mx/EU45Q4WfJyxIiHN8ACWlXREBOPnIUa0Zsdo79_uYo9FjBg?e=eZtyca)
 	* [Documento de contribuciones](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a18016316_alumnos_uady_mx/ETvdCUZUc-pJjG-kZiO1K6ABlUC4mm7eF_dm8zB-AnjXbQ?e=PVour4)
 	* [Presentación](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a18016316_alumnos_uady_mx/EZIPMx2LaPRDuvD0ZIu_jPoBazYZ0fTMgSlVp0p4PcYmIQ?e=5e0Om1)
+	
+## Entrega final
+
+Los documentos que fueron generados se encuentran en la carpeta "Entrega final". Se recomienda descargar los documentos ya que algunas de las
+versiones online no se visualizan correctamente:
+* **[Entrega final](https://alumnosuady-my.sharepoint.com/:f:/g/personal/a18016316_alumnos_uady_mx/EsSXX1ck3VZCj3rhVuqOG34BnzNjxWCCP97cZy6z1E5b2w?e=oCzUxR)**
+	* [Reporte en formato artículo](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a18016316_alumnos_uady_mx/EThToEpjSNBCjqM_rGtEPMIBsLQNcHAg7pWMQT9druu_xQ?e=HrhW58)
+	* [Poster](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a18016316_alumnos_uady_mx/EU_3kU405OdAkDRPG2yjcOUB0YWJbABLpFItacVeMuSIQQ?e=nLVC6u)
+	* [Video presentación](https://www.youtube.com/watch?v=aUeDsB6aHIU)
+		* [Diapositivas](https://alumnosuady-my.sharepoint.com/:p:/g/personal/a18016316_alumnos_uady_mx/EUU0broPbtJJtt4onObBZkgBHz62QWD4l0goKANDDrNu9g?e=B1SRXB)
